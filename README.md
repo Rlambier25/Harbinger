@@ -4,6 +4,9 @@
 
 #### By _**{Nick, Peter, Ryan, Reed}**_
 
+![screenshot 7](https://cloud.githubusercontent.com/assets/14284114/19832260/132bd320-9dd4-11e6-986e-6c2044ad68fa.png)
+![screenshot 15](https://cloud.githubusercontent.com/assets/14284114/19832261/168cf260-9dd4-11e6-999a-2585972f75dd.png)
+
 ## Description
 
 _{This game was designed for our Week 5 project and Epicodus for the Intro to Programming course. This game guides the user through a late victorian horror environment where they must crack the mystery laying within the mysterious abandoned Manor.  }_
